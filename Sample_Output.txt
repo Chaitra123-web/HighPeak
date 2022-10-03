@@ -1,0 +1,42 @@
+//Sample_Output
+
+//Output 1 :
+
+Enter the number of Employees: 
+7
+Number of Employees: 7
+Here the input items that are selected for distribution are: 
+IPods: 22349
+MI Band: 999
+Cult Pass: 2799
+Macbook Pro: 229900
+Digital Camera: 11101
+Alexa: 9999
+Sandwich Toaster: 2195
+And the difference between the choosen goodie with highest price and the lowest price is : 8906
+
+
+//Output 2 :
+
+Enter the number of Employees: 
+5
+Number of Employees: 5
+Here the input items that are selected for distribution are: 
+IPods: 22349
+MI Band: 999
+Cult Pass: 2799
+Macbook Pro: 229900
+Digital Camera: 11101
+And the difference between the choosen goodie with highest price and the lowest price is : 6102
+
+//Output 3 :
+
+Enter the number of Employees: 
+3
+Number of Employees: 3
+Here the input items that are selected for distribution are: 
+IPods: 22349
+MI Band: 999
+Cult Pass: 2799
+And the difference between the choosen goodie with highest price and the lowest price is : 1301
+
